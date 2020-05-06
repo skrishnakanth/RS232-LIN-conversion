@@ -31,8 +31,8 @@ The data conversion from **RS232** to **LIN** is very useful in case of changing
 ## Connections:
 <img src="https://github.com/skrishnakanth/RS232-LIN-conversion/blob/master/IMG_1787.jpg" width="800" height="480">
 	
-*white line - FT232(TX pin)--Logic analyser channel.
-*black line - FT232(GND)--Logic analyser GND.
+* white line - FT232(TX pin)--Logic analyser channel.
+* Black line - FT232(GND)--Logic analyser GND.
 
 ## Demo:
 ![](https://github.com/skrishnakanth/RS232-LIN-conversion/blob/master/RS232-LIN/RS232-lin.gif)
